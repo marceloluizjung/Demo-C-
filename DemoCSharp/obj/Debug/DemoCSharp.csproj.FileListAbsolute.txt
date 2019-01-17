@@ -1,0 +1,7 @@
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe.config
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.exe
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\bin\Debug\DemoCSharp.pdb
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.exe
+C:\Users\Marcelo\source\repos\DemoCSharp\DemoCSharp\obj\Debug\DemoCSharp.pdb
